@@ -55,15 +55,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=y8shas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=y8shas&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y8shas&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## ⏳ Account Age
-
-<p align="left">
-  <img src="https://badges.pufler.dev/years/y8shas?style=for-the-badge&color=blue" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=y8shas&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
