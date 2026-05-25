@@ -10,41 +10,22 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on:
-  - AI-powered automation tools
-  - Backend systems & APIs
-  - Full-stack developer utilities
+- 🔭 Currently working on AI-powered automation tools, backend systems & APIs
 
-- 🌱 Currently learning:
-  - Agentic AI workflows
-  - Generative AI systems
-  - Docker & DevOps
-  - Scalable backend architecture
-  - AWS & Azure deployment
+- 🌱 Currently learning Agentic AI, Docker, scalable backend systems & cloud deployment
 
-- 👯 Looking to collaborate on:
-  - Open source AI tools
-  - Backend SaaS projects
-  - Developer tools & automations
-  - GenAI side projects
+- 👯 Looking to collaborate on open source AI tools & backend SaaS projects
 
-- 🤝 Looking for help with:
-  - Advanced system design
-  - Open-source contributions
+- 🤝 Looking for help with advanced system design & distributed systems
 
-- 💬 Ask me about:
-  - Backend development
-  - Generative AI
-  - Linux & self-hosting
-  - APIs & automation
+- 💬 Ask me about backend development, Linux, APIs & Generative AI
 
-- 📫 Reach me at:
-  **y8shas@gmail.com**
+- 📫 Reach me at: **y8shas@gmail.com**
 
-- 📄 Resume:
+- 📄 Resume:  
   [View Resume](https://tinyurl.com/y8shasresume)
 
-- ⚡ Fun fact:
+- ⚡ Fun fact:  
   I turn random ideas into working projects at 3AM ⚡
 
 ---
@@ -63,10 +44,10 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,nextjs,docker,aws,azure,gcp,mongodb,mysql,postgres,git,linux,bash,selenium,photoshop" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,nextjs,docker,aws,azure,gcp,mongodb,mysql,postgres,git,linux,bash,selenium" />
 </p>
 
 ---
@@ -74,15 +55,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y8shas&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=y8shas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y8shas&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y8shas&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## ⏳ GitHub Account Age
+## ⏳ Account Age
 
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub%20Account-Old%20Enough%20To%20Break%20Production-blue?style=for-the-badge&logo=github" />
+  <img src="https://badges.pufler.dev/years/y8shas?style=for-the-badge&color=blue" />
 </p>
