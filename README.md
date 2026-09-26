@@ -2,12 +2,6 @@
 
 ### Backend Developer • Agentic AI Explorer • Vibe Coder 🚀
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=y8shas&theme=tokyonight&margin-w=15&margin-h=15" alt="y8shas" />
-  </a>
-</p>
-
 ## 🚀 About Me
 
 - 🔭 Currently working on AI-powered automation tools, backend systems & APIs
