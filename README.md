@@ -22,9 +22,6 @@
 
 - 📫 Reach me at: **y8shas@gmail.com**
 
-- 📄 Resume:  
-  [View Resume](https://tinyurl.com/y8shasresume)
-
 - ⚡ Fun fact:  
   I turn random ideas into working projects at 3AM ⚡
 
