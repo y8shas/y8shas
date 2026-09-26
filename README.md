@@ -47,15 +47,8 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,nextjs,docker,aws,azure,gcp,mongodb,mysql,postgres,git,linux,bash,selenium" />
+  <img src="https://skillicons.dev/icons?i=python,docker,aws,azure,gcp,mongodb,mysql,postgres,git,linux,bash" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=y8shas&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=y8shas&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
