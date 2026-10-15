@@ -16,9 +16,6 @@
 
 - 📫 Reach me at: **y8shas@gmail.com**
 
-- ⚡ Fun fact:  
-  I turn random ideas into working projects at 3AM ⚡
-
 ---
 
 ## 🌐 Connect With Me
