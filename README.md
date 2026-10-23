@@ -58,16 +58,6 @@ I build practical automation tools, Telegram bots, and backend systems focused o
 
 ---
 
-## 🎯 Current Focus
-
-I’m currently working on:
-
-- better Telegram bot architecture
-- AI-driven automation ideas
-- more reliable backend workflows
-- deployment and environment optimization
-- turning ideas into useful, real-world tools
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Code%20%7C%20Bots%20%7C%20Automation&fontSize=22&height=90" alt="Banner" />
 </div>
