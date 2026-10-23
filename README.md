@@ -1,16 +1,16 @@
 # Hi, I’m Yash 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Backend+Developer%3B+Telegram+Bot+Builder%3B+AI+Automation+Explorer%3B+Python+%7C+Go+%7C+PHP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=Python+Developer%3B+Telegram+Bot+Builder%3B+AI+Automation+Explorer%3B+Backend+Systems+%26+Automation" alt="Typing SVG" />
 </div>
 
-I build automation-heavy tools, Telegram bots, and backend systems focused on real-world workflows like file sharing, media downloaders, AI chat experiences, and cloud deployment.
+I build practical automation tools, Telegram bots, and backend systems focused on real-world workflows.
 
-- 🔭 Building bots and utilities for Telegram, automation, and AI workflows
-- 🌱 Exploring agentic AI, backend architecture, Docker, cloud deployment, and scalable services
-- 💡 Strong interest in Python, Go, PHP, and reliable system design
-- 🤝 Open to collaborations on Telegram bots, automation tools, and AI-powered products
-- 📫 Reach me: y8shas@gmail.com
+- 🔭 Building Telegram bots, AI-powered utilities, and backend automation tools
+- 🌱 Exploring agentic AI, Linux, Docker, deployment workflows, and scalable systems
+- 💡 Mostly working with Python, cloud services, and automation-first tooling
+- 🤝 Open to collaborations on bots, AI tools, and automation projects
+- 📫 Reach me at: y8shas@gmail.com
 
 <p align="left">
   <a href="https://github.com/y8shas" target="_blank"><img src="https://img.shields.io/badge/GitHub-y8shas-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -20,87 +20,54 @@ I build automation-heavy tools, Telegram bots, and backend systems focused on re
 
 ---
 
-## 🚀 What I work on
+## 🚀 What I Build
 
-Most of my repositories revolve around:
-
-- Telegram bot development
-- Media/file downloaders and upload workflows
-- Bot automation and command execution
-- Google Drive, cloud storage, and file management integrations
-- AI chat interfaces and experimentation
-- Docker-based deployments and hosting utilities
-
-This is reflected in projects like:
-
-- [ChatGptBot](https://github.com/y8shas/ChatGptBot)
-- [xruncode](https://github.com/y8shas/xruncode)
-- [google-drive-telegram-bot](https://github.com/y8shas/google-drive-telegram-bot)
-- [Musicder-Bot](https://github.com/y8shas/Musicder-Bot)
-- [URLuploader-With-Hotstar](https://github.com/y8shas/URLuploader-With-Hotstar)
-- [File-Sharing-Bot](https://github.com/y8shas/File-Sharing-Bot)
-- [StreamSearchRoBot](https://github.com/y8shas/StreamSearchRoBot)
-- [TG-FileStore](https://github.com/y8shas/TG-FileStore)
+- Telegram bots for file sharing, media processing, download workflows, and command execution
+- AI automation tools and chatbot experiences
+- Backend systems for cloud storage, uploads, and bot integrations
+- Dockerized and Linux-based deployment environments
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,php,js,nodejs,docker,linux,bash,git,postgres,mongodb,mysql,aws,azure,gcp" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,bash,git,mongodb,mysql,postgres,aws,azure,gcp" alt="Tech Stack" />
 </p>
 
-### Core strengths
-- Python backend development
-- Telegram bot frameworks and API integrations
-- Go-based automation tools and command execution systems
-- PHP-based utilities and scripts
-- Linux server setup and deployment workflows
-- Dockerized services and hosting automation
-- Database-backed apps and storage integrations
+### Core focus
+- Python development
+- Telegram bot development
+- Linux + server automation
+- Docker-based deployments
+- Cloud storage and file workflows
+- API integrations and bot systems
 
 ---
 
-## 📌 Featured Projects
+## ⭐ Featured Repositories
 
-### AI & Automation
-- [ChatGptBot](https://github.com/y8shas/ChatGptBot) — Telegram AI chatbot built with Python
-- [xruncode](https://github.com/y8shas/xruncode) — Remote code execution bot in Go
-- [Terminal-Bot](https://github.com/y8shas/Terminal-Bot) — bot for running commands through Telegram
-- [shell-bot](https://github.com/y8shas/shell-bot) — interactive shell execution bot
-
-### Media & File Tools
-- [URLuploader-With-Hotstar](https://github.com/y8shas/URLuploader-With-Hotstar) — URL uploading and download support
-- [Musicder-Bot](https://github.com/y8shas/Musicder-Bot) — music and media bot project
-- [StreamSearchRoBot](https://github.com/y8shas/StreamSearchRoBot) — search and download flow automation
-- [File-Sharing-Bot](https://github.com/y8shas/File-Sharing-Bot) — file sharing and access system
-
-### Cloud & Deployment
-- [docker-ubuntu-xrdp-mate-custom](https://github.com/y8shas/docker-ubuntu-xrdp-mate-custom) — custom containerized Ubuntu environment
-- [PortoFolio](https://github.com/y8shas/PortoFolio) — portfolio website project
-- [NikhilXd](https://github.com/y8shas/NikhilXd) — developer portfolio template
+- [ChatGptBot](https://github.com/y8shas/ChatGptBot) — AI chatbot project built with Python
+- [xruncode](https://github.com/y8shas/xruncode) — command execution bot written in Go
+- [google-drive-telegram-bot](https://github.com/y8shas/google-drive-telegram-bot) — Google Drive upload and management bot
+- [Musicder-Bot](https://github.com/y8shas/Musicder-Bot) — media and music bot project
+- [File-Sharing-Bot](https://github.com/y8shas/File-Sharing-Bot) — file hosting and sharing bot
+- [URLuploader-With-Hotstar](https://github.com/y8shas/URLuploader-With-Hotstar) — URL upload workflows
+- [StreamSearchRoBot](https://github.com/y8shas/StreamSearchRoBot) — media search automation bot
+- [TG-FileStore](https://github.com/y8shas/TG-FileStore) — Telegram file storage bot
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Current Focus
+
+I’m currently working on:
+
+- better Telegram bot architecture
+- AI-driven automation ideas
+- more reliable backend workflows
+- deployment and environment optimization
+- turning ideas into useful, real-world tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y8shas&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y8shas&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Code%20%7C%20Bots%20%7C%20Automation&fontSize=22&height=90" alt="Banner" />
 </div>
-
----
-
-## 🧠 Current focus
-
-I’m currently exploring:
-
-- AI-powered automation workflows
-- Better backend architecture and service design
-- More robust Telegram bot systems
-- Cloud deployment patterns and Docker optimization
-- Building reliable, useful tools from ideas into working products
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks%20for%20visiting!&fontSize=24&height=120" alt="Footer" />
-</p>
