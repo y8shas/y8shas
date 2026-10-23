@@ -24,10 +24,16 @@ I build practical automation tools, Telegram bots, and backend systems that solv
 
 ## Featured Projects
 
-- [ChatGptBot](https://github.com/y8shas/ChatGptBot) — Python-powered AI chat bot
+- [ChatGptBot](https://github.com/y8shas/ChatGptBot) — AI chatbot built with Python
 - [google-drive-telegram-bot](https://github.com/y8shas/google-drive-telegram-bot) — Google Drive management bot
 - [File-Sharing-Bot](https://github.com/y8shas/File-Sharing-Bot) — file sharing and access automation
 - [TG-FileStore](https://github.com/y8shas/TG-FileStore) — Telegram file storage bot
+- [Musicder-Bot](https://github.com/y8shas/Musicder-Bot) — media and music bot project
+- [URLuploader-With-Hotstar](https://github.com/y8shas/URLuploader-With-Hotstar) — URL upload and media workflow bot
+- [StreamSearchRoBot](https://github.com/y8shas/StreamSearchRoBot) — search automation and media bot
+- [xruncode](https://github.com/y8shas/xruncode) — command execution bot in Go
+- [Terminal-Bot](https://github.com/y8shas/Terminal-Bot) — Telegram bot for shell execution
+- [shell-bot](https://github.com/y8shas/shell-bot) — interactive terminal automation workflow
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Code%20%7C%20Bots%20%7C%20Automation&fontSize=22&height=90" alt="Banner" />
