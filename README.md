@@ -1,7 +1,7 @@
 # Hi, I’m Yash 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=Python+Developer%3B+Telegram+Bot+Builder%3B+Automation+Engineer%3B+AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=Python+Developer%3B+Telegram+Bot+Builder%3B+Automation+Engineer" alt="Typing banner" />
 </div>
 
 Python Developer • Telegram Bot Builder • Automation Engineer
@@ -12,8 +12,8 @@ I design and build automation tools, Telegram bots, and backend systems that sol
   <a href="https://github.com/y8shas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-y8shas-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/y8shas" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-y8shas-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+  <a href="https://github.com/y8shas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Since%202021-181717?style=for-the-badge&logo=github" alt="GitHub account since 2021" />
   </a>
   <a href="mailto:y8shas@gmail.com">
     <img src="https://img.shields.io/badge/Email-y8shas%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
