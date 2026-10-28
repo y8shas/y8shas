@@ -13,7 +13,7 @@ I design and build automation tools, Telegram bots, and backend systems that sol
     <img src="https://img.shields.io/badge/GitHub-y8shas-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://github.com/y8shas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Since%202021-181717?style=for-the-badge&logo=github" alt="GitHub account since 2021" />
+    <img src="https://img.shields.io/badge/GitHub-Active%20Since%202020-181717?style=for-the-badge&logo=github" alt="GitHub active since 2020" />
   </a>
   <a href="mailto:y8shas@gmail.com">
     <img src="https://img.shields.io/badge/Email-y8shas%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
